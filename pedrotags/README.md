@@ -7,6 +7,7 @@ PedroTags é um projeto open-source de tags para servidores de Minecraft com a v
 * Total configuração de permissão, prefixo e sufixo.
 
 *(translated by Google Translate)
+
 PedroTags is an open-source tagging project for Minecraft servers with version 1.8.x.
 
 ## Resources:
